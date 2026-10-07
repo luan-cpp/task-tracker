@@ -1,0 +1,5 @@
+*.o
+*.exe
+build/
+task_tracker
+data/task.txt
